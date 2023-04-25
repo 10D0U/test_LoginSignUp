@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginSignUp</string>
+    <string name="login_text">Login</string>
+    <string name="signUp_text">Sign up</string>
+    <string name="email_hint">Email ID</string>
+    <string name="password_hint">Password</string>
+    <string name="fullName_hint">Full name</string>
+    <string name="company_hint">Company name</string>
+    <string name="login_btn_text">Login</string>
+    <string name="orLoginWithText">Or login with...</string>
+    <string name="orRegisterWithText">Or, register with email...</string>
+    <string name="already_text">New to iThinkLogistics?</string>
+    <string name="register_text">Register</string>
+</resources>
